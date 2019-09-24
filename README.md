@@ -6,3 +6,6 @@
 
 # Stop containers
 `docker-compose down`
+
+# References:
+https://docs.datadoghq.com/agent/docker/apm/?tab=python
