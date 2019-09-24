@@ -1,0 +1,2 @@
+ddtrace==0.12.0
+flask
