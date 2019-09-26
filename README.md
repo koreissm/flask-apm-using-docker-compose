@@ -1,3 +1,6 @@
+# Set up your API KEY
+Replace the `<YOUR_API_KEY>` variable by your Datadog API key 
+
 # Build containers
 `docker-compose build`
 
